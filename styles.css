@@ -450,5 +450,6 @@ small {
 }
 /* keywords  */
 .keywords{
-  z-index: -100
+  z-index: -100;
+  position: absolute;
 }
