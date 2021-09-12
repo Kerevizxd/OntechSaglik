@@ -450,7 +450,6 @@ small {
 }
 /* keywords  */
 .keywords {
-  z-index: -100;
   position: absolute;
-  display: hidden;
+  visibility: hidden;
 }
