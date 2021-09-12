@@ -449,7 +449,7 @@ small {
   font-size: 0.8rem;
 }
 /* keywords  */
-.keywords{
+.keywords {
   z-index: -100;
   position: absolute;
 }
